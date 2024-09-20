@@ -59,7 +59,7 @@ function compareResultat(joueur, ordi){
 }
 
 function affichageResultat(j, o, r){
-    joueur.textContent = "joueur : " + j;
-    robot.textContent = "robot : " + o;
-    resultatText.textContent = "Resultat : " + r; 
+    joueur.textContent = "Joueur : " + j;
+    robot.textContent = "Robot : " + o;
+    resultatText.textContent = "Résultat : " + r; 
 }

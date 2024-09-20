@@ -1,0 +1,17 @@
+.box{
+    background-color: rgb(102, 125, 226);
+    padding: 4em;
+    text-align: center;
+    
+}
+
+.resultat{
+    padding : 4em;
+    text-align: center;
+    color: rgb(32, 77, 160);
+}
+
+.box button{
+    background-color: rgb(63, 63, 182);
+    color:rgb(240, 240, 240);
+}
